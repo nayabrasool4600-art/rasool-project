@@ -32,13 +32,6 @@ This project uses ECG data from publicly available sources:
 
  Note: The dataset is not included in this repository due to size limits. Please download it from the above links before running the notebook.  
 
----
-
-## Running the Notebook
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/afib-detection.git
-   cd afib-detection
 
 
    Author
